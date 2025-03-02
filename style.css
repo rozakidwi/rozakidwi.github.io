@@ -1,0 +1,22 @@
+body {
+    background-color: #282828;
+    font-family: "Iosevka Web";
+}
+
+#konten {
+    margin: 2em;
+    color: #ebdbb2;
+}
+
+a {
+    color: #ebdbb2;
+    font-weight: 600;
+}
+
+a:hover {
+    color: #bdae93;
+}
+
+#footer {
+    color: #a89984;
+}
