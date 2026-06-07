@@ -22,5 +22,6 @@
 }
 
 html {
-	color: var(--foreground)
+	color: var(--foreground);
+	font-family: "Noto Serif", serif;
 }
