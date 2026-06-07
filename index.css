@@ -21,3 +21,6 @@
 	--white: #d1d5da;
 }
 
+html {
+	color: var(--foreground)
+}
