@@ -21,6 +21,10 @@
 	--white: #d1d5da;
 }
 
+* {
+	margin: 0;
+}
+
 html {
 	color: var(--foreground);
 	font-family: "Noto Serif", serif;
