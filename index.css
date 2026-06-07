@@ -25,6 +25,10 @@
 	margin: 0;
 }
 
+h2 {
+	margin-bottom: .25em;
+}
+
 html {
 	color: var(--foreground);
 	font-family: "Noto Serif", serif;
