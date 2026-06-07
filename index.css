@@ -33,3 +33,7 @@ html {
 	color: var(--foreground);
 	font-family: "Noto Serif", serif;
 }
+
+ul {
+	padding-left: 2em;
+}
