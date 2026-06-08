@@ -29,6 +29,10 @@ h2 {
 	margin-bottom: .25em;
 }
 
+.hero {
+	margin: 6em 3em 3em 3em;
+}
+
 html {
 	color: var(--foreground);
 	font-family: "Noto Serif", serif;
