@@ -37,7 +37,6 @@ a:hover {
 
 body {
 	max-width: 768px;
-	margin: 6em auto 0;
 	color: var(--foreground);
 	font-family: "Noto Serif", serif;
 }
