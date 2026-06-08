@@ -4,4 +4,4 @@
 ## todo list
 - [ ] blogs
 - [ ] photography page
-- [ ] media breakpoints for devices that is smaller than 1080p
+- [x] media breakpoints for devices that is smaller than 1080p
