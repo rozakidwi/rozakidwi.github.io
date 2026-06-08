@@ -1,0 +1,53 @@
+/* github light color scheme */
+:root {
+	--foreground: #24292f;
+
+	--black: #24292e;
+	--red: #d73a49;
+	--green: #28a745;
+	--yellow: #dbab09;
+	--blue: #0366d6;
+	--magenta: #5a32a3;
+	--cyan: #0598bc;
+	--gray: #6a737d;
+
+	--lightgray: #959da5;
+	--lightred: #cb2431;
+	--lightgreen: #22863a;
+	--lightyellow: #b08800;
+	--lightblue: #005cc5;
+	--lightmagenta: #5a32a3;
+	--lightcyan: #3192aa;
+	--white: #d1d5da;
+}
+
+a:link, a:visited {
+	color: var(--lightyellow);
+	font-weight: bold;
+}
+
+a:hover {
+	background-color: var(--lightyellow);
+	color: #FFF
+}
+
+* {
+	margin: 0;
+}
+
+body {
+	color: var(--foreground);
+	font-family: "Noto Serif", serif;
+}
+
+section {
+	margin-bottom: 3em;
+}
+
+h2 {
+	margin-bottom: .25em;
+}
+
+ul {
+	padding-left: 2em;
+}
