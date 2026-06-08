@@ -66,3 +66,8 @@ h2 {
 ul {
 	padding-left: 2em;
 }
+
+/* contact.html ------------------------------------------------------------- */
+.socialmedia p {
+	margin-bottom: .25em;
+}
