@@ -1,0 +1,16 @@
+@import "global.css";
+
+main {
+	display: grid;
+	max-width: 50em;
+	margin: 5em auto 0 auto;
+}
+
+.rocks p {
+	margin-bottom: .5em;
+	text-decoration: underline;
+}
+
+.rocks li {
+	margin-bottom: .25em;
+}
