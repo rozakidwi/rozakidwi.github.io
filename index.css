@@ -25,7 +25,7 @@
 	margin: 0;
 }
 
-html {
+body {
 	color: var(--foreground);
 	font-family: "Noto Serif", serif;
 }
