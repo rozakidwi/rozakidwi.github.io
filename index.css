@@ -42,6 +42,10 @@ body {
 	font-family: "Noto Serif", serif;
 }
 
+footer {
+	margin-bottom: 3em;
+}
+
 section {
 	margin-bottom: 3em;
 }
