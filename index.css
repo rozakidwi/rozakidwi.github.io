@@ -40,6 +40,11 @@ section {
 	margin-bottom: 3em;
 }
 
+.rocks p {
+	margin-bottom: .5em;
+	text-decoration: underline;
+}
+
 h2 {
 	margin-bottom: .25em;
 }
