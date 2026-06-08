@@ -51,3 +51,13 @@ h2, li {
 ul {
 	padding-left: 2em;
 }
+
+::-moz-selection {
+  color: #FFF;
+  background: var(--gray);
+}
+
+::selection {
+  color: #FFF;
+  background: var(--gray);
+}
