@@ -25,17 +25,17 @@
 	margin: 0;
 }
 
-h2 {
-	margin-bottom: .25em;
+html {
+	color: var(--foreground);
+	font-family: "Noto Serif", serif;
 }
 
 .hero {
 	margin: 6em 3em 3em 3em;
 }
 
-html {
-	color: var(--foreground);
-	font-family: "Noto Serif", serif;
+h2 {
+	margin-bottom: .25em;
 }
 
 ul {
