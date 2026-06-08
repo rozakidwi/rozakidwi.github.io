@@ -22,12 +22,12 @@
 }
 
 a:link, a:visited {
-	color: var(--lightyellow);
+	color: var(--lightcyan);
 	font-weight: bold;
 }
 
 a:hover {
-	background-color: var(--lightyellow);
+	background-color: var(--lightcyan);
 	color: #FFF
 }
 
