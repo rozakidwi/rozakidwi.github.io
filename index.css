@@ -68,6 +68,6 @@ ul {
 }
 
 /* contact.html ------------------------------------------------------------- */
-.socialmedia p {
+.socialmedia p, li {
 	margin-bottom: .25em;
 }
