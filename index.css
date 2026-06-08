@@ -21,6 +21,16 @@
 	--white: #d1d5da;
 }
 
+a:link, a:visited {
+	color: var(--lightyellow);
+	font-weight: bold;
+}
+
+a:hover {
+	background-color: var(--lightyellow);
+	color: #FFF
+}
+
 * {
 	margin: 0;
 }
