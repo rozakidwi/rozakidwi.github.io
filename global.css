@@ -42,11 +42,12 @@ body {
 }
 
 footer {
+  margin-top: 3em;
   margin-bottom: 3em;
 }
 
 section {
-  margin-bottom: 3em;
+  margin-bottom: .75em;
 }
 
 p {
