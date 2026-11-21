@@ -1,64 +1,64 @@
 /* github light color scheme */
 :root {
-	--foreground: #24292f;
+  --foreground: #24292f;
 
-	--black: #24292e;
-	--red: #d73a49;
-	--green: #28a745;
-	--yellow: #dbab09;
-	--blue: #0366d6;
-	--magenta: #5a32a3;
-	--cyan: #0598bc;
-	--gray: #6a737d;
+  --black: #24292e;
+  --red: #d73a49;
+  --green: #28a745;
+  --yellow: #dbab09;
+  --blue: #0366d6;
+  --magenta: #5a32a3;
+  --cyan: #0598bc;
+  --gray: #6a737d;
 
-	--lightgray: #959da5;
-	--lightred: #cb2431;
-	--lightgreen: #22863a;
-	--lightyellow: #b08800;
-	--lightblue: #005cc5;
-	--lightmagenta: #5a32a3;
-	--lightcyan: #3192aa;
-	--white: #d1d5da;
+  --lightgray: #959da5;
+  --lightred: #cb2431;
+  --lightgreen: #22863a;
+  --lightyellow: #b08800;
+  --lightblue: #005cc5;
+  --lightmagenta: #5a32a3;
+  --lightcyan: #3192aa;
+  --white: #d1d5da;
 }
 
 a:link, a:visited {
-	color: var(--lightcyan);
-	font-weight: bold;
+  color: var(--lightcyan);
+  font-weight: bold;
 }
 
 a:hover {
-	background-color: var(--lightcyan);
-	color: #FFF
+  background-color: var(--lightcyan);
+  color: #FFF
 }
 
 * {
-	margin: 0;
+  margin: 0;
 }
 
 body {
-	max-width: 768px;
-	color: var(--foreground);
-	font-family: "Noto Serif", serif;
+  max-width: 768px;
+  color: var(--foreground);
+  font-family: "Noto Serif", serif;
 }
 
 footer {
-	margin-bottom: 3em;
+  margin-bottom: 3em;
 }
 
 section {
-	margin-bottom: 3em;
+  margin-bottom: 3em;
 }
 
 p {
-	margin-bottom: .5em;
+  margin-bottom: .5em;
 }
 
 h2, li {
-	margin-bottom: .25em;
+  margin-bottom: .25em;
 }
 
 ul {
-	padding-left: 2em;
+  padding-left: 2em;
 }
 
 ::-moz-selection {
@@ -72,20 +72,20 @@ ul {
 }
 
 @media only screen and (max-width: 600px) {
-	body {
-		margin: 3em 1.5em;
-	}
+  body {
+    margin: 3em 1.5em;
+  }
 }
 
 @media only screen and (min-width: 600px) {
-	body {
-		margin: 3em 1.5em;
-	}
+  body {
+    margin: 3em 1.5em;
+  }
 }
 
 @media only screen and (min-width: 768px) {
-	body {
-		margin: 6em auto 0;
-		padding: 0 1.5em;
-	}
+  body {
+    margin: 6em auto 0;
+    padding: 0 1.5em;
+  }
 }
